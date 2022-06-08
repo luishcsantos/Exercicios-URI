@@ -20,4 +20,4 @@ if i < f:
     minutos = int(tempo/minuto_seg)
     tempo = tempo%minuto_seg
     segundos = tempo
-    print('{} dia(s)\n{} hora(s)\n{} minuto(s)\n{} segundo(s)'.format(dias, horas, minutos, segundos))
+    print('{} dia(s)\n{} hora(s)\n{} minuto(s)\n{} segundo(s)'.format(dias, horas, minutos, segundos)) 
